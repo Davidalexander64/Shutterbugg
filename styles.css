@@ -1,0 +1,37 @@
+/*    Stylesheet for B-BNB Project Ch 5
+      Author: DA
+      Date: 5.31.19
+      filename: styles.css
+*/
+
+
+.nav li {
+  display: inline;
+
+}
+
+.nav a {
+  font-size: 24px;
+  font-weight: bold;
+  padding-right: 50px;
+  transition: color 1s;
+
+}
+
+.nav a:hover {
+    color: yellow;
+    text-decoration: none;
+
+  }
+
+.nav {
+  padding-top: 16px;
+  background-color: gold;
+}
+
+.jumbotron {
+  background-image: url(main2.png.jpg);
+  background-size: cover;
+  height: 700px;
+  
+}
